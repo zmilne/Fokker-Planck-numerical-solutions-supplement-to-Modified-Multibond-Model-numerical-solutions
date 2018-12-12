@@ -1,0 +1,5 @@
+CallFokkerPlanckPDEMovingBC(Periodic or Harmonic)Potential.m , FokkerPlanckPDEMovingBC(Periodic or Harmonic)Potential.m, PlotAllProbs.m, and CalcResults(Periodic or Harmonic)Potential must be in the same folder.
+
+Choose the mechanical and dynamic parameters you wish to use on lines 13-21. You may change the spatial and time resolution on lines 24 and 25 respectively.
+
+Run CallFokkerPlanckPDEMovingBC(Periodic or Harmonic)Potential.m 
