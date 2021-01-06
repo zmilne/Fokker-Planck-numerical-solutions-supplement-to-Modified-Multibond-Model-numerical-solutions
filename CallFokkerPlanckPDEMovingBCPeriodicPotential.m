@@ -9,11 +9,11 @@ clear all
 close all
 figure
 %Dynamic and mechanical Parameters
-V=1e-3; %the speed 
+V=1e-7; %the speed 
 d=9e-17;% THE DIFFUSION CONSTANT
 ks=1.3;%The substrate interaction spring constant
 Ns=6e-6;%The substrate interaction damping constant
-kc=10;%The cantilever spring constant
+kc=1;%The cantilever spring constant
 Nc=0;%The cantilever damping constant
 Xc=2e-10;% the critical stretch length i.e., the maximum length any substrate interaction can stretch
 tStep=3.00e-4/V*10e-9;% The time step is scaled by the speed
